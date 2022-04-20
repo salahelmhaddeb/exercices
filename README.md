@@ -1,1 +1,1 @@
-# exercices
+I'm learning git
